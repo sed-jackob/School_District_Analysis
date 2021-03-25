@@ -22,16 +22,16 @@ All scores and percentages dropped for Thomas High School except the average rea
 ![THS Summary](./Analysis/THS_summary.png)
 
 ### How does replacing the ninth-grade scores affect the following:
-- ##Math and reading scores by grade:## Average math and reading scores for the 9th grade have dropped as per the chart below:
+- **Math and reading scores by grade:** Average math and reading scores for the 9th grade have dropped as per the chart below:
 ![Math and Reading Scores by Grade](./Analysis/math_reading_scores_grade.png)
 
-- ##Scores by school spending:## Scores by school spending were not effected:
+- **Scores by school spending:** Scores by school spending were not effected:
 ![Scores by School Spending](./Analysis/scores_school_spending.png)
 
-- ##Scores by school size:## Scores by school size were not effected:
+- **Scores by school size:** Scores by school size were not effected:
 ![Scores by School Size](./Analysis/scores_school_size.png)
 
-- ##Scores by school type:## Scores by school type were not effected:
+- **Scores by school type:** Scores by school type were not effected:
 ![Scores by School Type](./Analysis/scores_school_type.png)
 
 ## Summary
